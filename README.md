@@ -26,4 +26,5 @@ SpaceR poskytuje jednoduché grafické uživatelské rozhraní pomocí knihovny 
 - Výstupní cesta: Uživatel může vybrat cestu, kam se uloží upravený soubor.
 Díky SpaceR už nikdy nebudete muset ručně kontrolovat, zda jsou všechny mezery ve vašem dokumentu správně! Automatizujte tento úkol a soustřeďte se na důležitější části vaší práce.
 
-<!-- ## 📦 Instalace -->
+## 📦 Instalace
+Instalace je velmi jednoduchá, stačí si stáhout ``.exe`` soubor a ten spustit. Pokud chcete ale i nněco upravit, je potřeba si stáhout prímo python soubor. Kde správné funkci je taky potřeba stáhnout a nainstalovat [Font](https://dl.fontget.com/s/p/spacex/spacex.zip?token=VclhtjMoPBKP5B9zd08pgw&expires=1728155328 "Font").
