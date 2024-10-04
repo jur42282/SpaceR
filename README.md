@@ -27,4 +27,3 @@ SpaceR poskytuje jednoduché grafické uživatelské rozhraní pomocí knihovny 
 Díky SpaceR už nikdy nebudete muset ručně kontrolovat, zda jsou všechny mezery ve vašem dokumentu správně! Automatizujte tento úkol a soustřeďte se na důležitější části vaší práce.
 
 <!-- ## 📦 Instalace -->
-
