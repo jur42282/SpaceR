@@ -1,10 +1,11 @@
 single_char_unbreakable = ['a', 'i', 'k', 'o', 's', 'u', 'v', 'z']
+unbreakable_char = "~" #Znak, který zastupuje nezlomitelnou mezeru
 
 def single_char_detector(text):
     for c in single_char_unbreakable:
-        text = text.replace(f' {c} ', f' {c}~')
-        text = text.replace(f' {c.upper()} ', f' {c.upper()}~')
-        text = text.replace(f'~{c} ', f'~{c}~')
+        text = text.replace(f' {c} ', f' {c}{unbreakable_char}')
+        text = text.replace(f' {c.upper()} ', f' {c.upper()}{unbreakable_char}')
+        text = text.replace(f'{unbreakable_char}{c} ', f'{unbreakable_char}{c}{unbreakable_char}')
     return text
 
 def main():
