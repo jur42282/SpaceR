@@ -1,5 +1,5 @@
 # SpaceR
-
+![insaneultrasuperduperplaceholder](SpaceR_banner.png "banner")
 ### Co je SpaceR?
 * Je to jednoduchý python program, který bere text jako vstup a sám do něj přidá nezlomitelné mezery.
 ### Proč?
