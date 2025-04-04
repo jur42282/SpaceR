@@ -5,6 +5,7 @@ single_char_unbreakable = ['a', 'i', 'k', 'o', 's', 'u', 'v', 'z', 'A', 'I', 'K'
 unbreakable_char = "~" #Znak, který zastupuje nezlomitelnou mezeru
 
 def main():
+    menu.resizable(width=False, height=True)
     menu.mainloop()
 
 def single_char_detector(text):
@@ -99,4 +100,4 @@ final_button.grid(row=3, column=0, pady=10, padx=5, sticky="ew")
 if __name__ == '__main__':
     main()
 
-# Lukáš Jurák 2024
+# Lukáš Jurák 2025
